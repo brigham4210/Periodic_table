@@ -1,0 +1,44 @@
+{
+    "H": {
+        "name": "Hydrogen",
+        "atomic_number": 1,
+        "group": {
+            "number": 1,
+            "name": "hydrogen"
+        },
+        "period": 1,
+        "block": "s",
+        "phase": "gas",
+        "melting_point": {
+            "K": 13.99,
+            "C": -259.16,
+            "F": -434.49
+        },
+        "boiling_point": {
+            "K": 20.271,
+            "C": -252.879,
+            "F": -423.182
+        }
+    },
+    "He": {
+        "name": "Helium",
+        "atomic_number": 2,
+        "group": {
+            "number": 18,
+            "name": "noble gases"
+        },
+        "period": 1,
+        "block": "s",
+        "phase": "gas",
+        "melting_point": {
+            "K": 0.95,
+            "C": -272.2,
+            "F": -457.96
+        },
+        "boiling_point": {
+            "K": 4.222,
+            "C": -268.928,
+            "F": -452.07
+        }
+    }
+}

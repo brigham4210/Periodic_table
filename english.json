@@ -1,0 +1,2344 @@
+{
+    "H": {
+        "name": "Hydrogen",
+        "atomic_number": 1,
+        "group": {
+            "number": 1,
+            "name": "hydrogen"
+        },
+        "period": 1,
+        "block": "s",
+        "phase": "gas",
+        "melting_point": {
+            "K": 13.99,
+            "C": -259.16,
+            "F": -434.49
+        },
+        "boiling_point": {
+            "K": 20.271,
+            "C": -252.879,
+            "F": -423.182
+        }
+    },
+    "He": {
+        "name": "Helium",
+        "atomic_number": 2,
+        "group": {
+            "number": 18,
+            "name": "noble gases"
+        },
+        "period": 1,
+        "block": "s",
+        "phase": "gas",
+        "melting_point": {
+            "K": 0.95,
+            "C": -272.2,
+            "F": -457.96
+        },
+        "boiling_point": {
+            "K": 4.222,
+            "C": -268.928,
+            "F": -452.07
+        }
+    },
+    "Li": {
+        "name": "Lithium",
+        "atomic_number": 3,
+        "group": {
+            "number": 1,
+            "name": "alkali metals"
+        },
+        "period": 2,
+        "block": "s",
+        "phase": "solid",
+        "melting_point": {
+            "K": 453.65,
+            "C": 180.5,
+            "F": 356.9
+        },
+        "boiling_point": {
+            "K": 1615,
+            "C": 1342,
+            "F": 2448
+        }
+    },
+    "Be": {
+        "name": "Beryllium",
+        "atomic_number": 4,
+        "group": {
+            "number": 2,
+            "name": "alkaline earth metals"
+        },
+        "period": 2,
+        "block": "s",
+        "phase": "solid",
+        "melting_point": {
+            "K": 1560,
+            "C": 1287,
+            "F": 2349
+        },
+        "boiling_point": {
+            "K": 2742,
+            "C": 2469,
+            "F": 4476
+        }
+    },
+    "B": {
+        "name": "Boron",
+        "atomic_number": 5,
+        "group": {
+            "number": 13,
+            "name": "boron group"
+        },
+        "period": 2,
+        "block": "p",
+        "phase": "solid",
+        "melting_point": {
+            "K": 2349,
+            "C": 2076,
+            "F": 3769
+        },
+        "boiling_point": {
+            "K": 4200,
+            "C": 3927,
+            "F": 7101
+        }
+    },
+    "C": {
+        "name": "Carbon",
+        "atomic_number": 6,
+        "group": {
+            "number": 14,
+            "name": "carbon group"
+        },
+        "period": 2,
+        "block": "p",
+        "phase": "solid",
+        "melting_point": {
+            "K": 3800,
+            "C": 3527,
+            "F": 6381
+        },
+        "boiling_point": {
+            "K": 4300,
+            "C": 4027,
+            "F": 7281
+        }
+    },
+    "N": {
+        "name": "Nitrogen",
+        "atomic_number": 7,
+        "group": {
+            "number": 15,
+            "name": "pnictogens"
+        },
+        "period": 2,
+        "block": "p",
+        "phase": "gas",
+        "melting_point": {
+            "K": 63.15,
+            "C": -210,
+            "F": -346
+        },
+        "boiling_point": {
+            "K": 77.355,
+            "C": -195.795,
+            "F": -320.431
+        }
+    },
+    "O": {
+        "name": "Oxygen",
+        "atomic_number": 8,
+        "group": {
+            "number": 16,
+            "name": "chalcogens"
+        },
+        "period": 2,
+        "block": "p",
+        "phase": "gas",
+        "melting_point": {
+            "K": 54.36,
+            "C": -218.79,
+            "F": -361.82
+        },
+        "boiling_point": {
+            "K": 90.188,
+            "C": -182.962,
+            "F": -297.33
+        }
+    },
+    "F": {
+        "name": "Fluorine",
+        "atomic_number": 9,
+        "group": {
+            "number": 17,
+            "name": "halogens"
+        },
+        "period": 2,
+        "block": "p",
+        "phase": "gas",
+        "melting_point": {
+            "K": 53.53,
+            "C": -219.62,
+            "F": -363.32
+        },
+        "boiling_point": {
+            "K": 85.03,
+            "C": -188.12,
+            "F": -306.42
+        }
+    },
+    "Ne": {
+        "name": "Neon",
+        "atomic_number": 10,
+        "group": {
+            "number": 18,
+            "name": "noble gases"
+        },
+        "period": 2,
+        "block": "p",
+        "phase": "gas",
+        "melting_point": {
+            "K": 24.56,
+            "C": -248.59,
+            "F": -415.46
+        },
+        "boiling_point": {
+            "K": 27.104,
+            "C": -246.046,
+            "F": -410.883
+        }
+    },
+    "Na": {
+        "name": "Sodium",
+        "atomic_number": 11,
+        "group": {
+            "number": 1,
+            "name": "alkali metals"
+        },
+        "period": 3,
+        "block": "s",
+        "phase": "solid",
+        "melting_point": {
+            "K": 370.95,
+            "C": 97.72,
+            "F": 207.9
+        },
+        "boiling_point": {
+            "K": 1156,
+            "C": 883,
+            "F": 1621
+        }
+    },
+    "Mg": {
+        "name": "Magnesium",
+        "atomic_number": 12,
+        "group": {
+            "number": 2,
+            "name": "alkaline earth metals"
+        },
+        "period": 3,
+        "block": "s",
+        "phase": "solid",
+        "melting_point": {
+            "K": 923,
+            "C": 650,
+            "F": 1202
+        },
+        "boiling_point": {
+            "K": 1363,
+            "C": 1090,
+            "F": 1994
+        }
+    },
+    "Al": {
+        "name": "Aluminum",
+        "atomic_number": 13,
+        "group": {
+            "number": 13,
+            "name": "boron group"
+        },
+        "period": 3,
+        "block": "p",
+        "phase": "solid",
+        "melting_point": {
+            "K": 933.47,
+            "C": 660.32,
+            "F": 1220.58
+        },
+        "boiling_point": {
+            "K": 2792,
+            "C": 2519,
+            "F": 4566
+        }
+    },
+    "Si": {
+        "name": "Silicon",
+        "atomic_number": 14,
+        "group": {
+            "number": 14,
+            "name": "carbon group"
+        },
+        "period": 3,
+        "block": "p",
+        "phase": "solid",
+        "melting_point": {
+            "K": 1687,
+            "C": 1414,
+            "F": 2577
+        },
+        "boiling_point": {
+            "K": 3538,
+            "C": 3265,
+            "F": 5909
+        }
+    },
+    "P": {
+        "name": "Phosphorus",
+        "atomic_number": 15,
+        "group": {
+            "number": 15,
+            "name": "pnictogens"
+        },
+        "period": 3,
+        "block": "p",
+        "phase": "solid",
+        "melting_point": {
+            "K": 317.25,
+            "C": 44.1,
+            "F": 111.38
+        },
+        "boiling_point": {
+            "K": 553.65,
+            "C": 280.5,
+            "F": 536.9
+        }
+    },
+    "S": {
+        "name": "Sulfur",
+        "atomic_number": 16,
+        "group": {
+            "number": 16,
+            "name": "chalcogens"
+        },
+        "period": 3,
+        "block": "p",
+        "phase": "solid",
+        "melting_point": {
+            "K": 388.36,
+            "C": 115.21,
+            "F": 239.38
+        },
+        "boiling_point": {
+            "K": 717.75,
+            "C": 444.6,
+            "F": 832.28
+        }
+    },
+    "Cl": {
+        "name": "Chlorine",
+        "atomic_number": 17,
+        "group": {
+            "number": 17,
+            "name": "halogens"
+        },
+        "period": 3,
+        "block": "p",
+        "phase": "gas",
+        "melting_point": {
+            "K": 171.65,
+            "C": -101.5,
+            "F": -150.7
+        },
+        "boiling_point": {
+            "K": 239.11,
+            "C": -34.04,
+            "F": -29.27
+        }
+    },
+    "Ar": {
+        "name": "Argon",
+        "atomic_number": 18,
+        "group": {
+            "number": 18,
+            "name": "noble gases"
+        },
+        "period": 3,
+        "block": "p",
+        "phase": "gas",
+        "melting_point": {
+            "K": 83.8,
+            "C": -189.35,
+            "F": -308.83
+        },
+        "boiling_point": {
+            "K": 87.3,
+            "C": -185.85,
+            "F": -302.53
+        }
+    },
+    "K": {
+        "name": "Potassium",
+        "atomic_number": 19,
+        "group": {
+            "number": 1,
+            "name": "alkali metals"
+        },
+        "period": 4,
+        "block": "s",
+        "phase": "solid",
+        "melting_point": {
+            "K": 336.53,
+            "C": 63.38,
+            "F": 146.08
+        },
+        "boiling_point": {
+            "K": 1032,
+            "C": 759,
+            "F": 1398
+        }
+    },
+    "Ca": {
+        "name": "Calcium",
+        "atomic_number": 20,
+        "group": {
+            "number": 2,
+            "name": "alkaline earth metals"
+        },
+        "period": 4,
+        "block": "s",
+        "phase": "solid",
+        "melting_point": {
+            "K": 1115,
+            "C": 842,
+            "F": 1548
+        },
+        "boiling_point": {
+            "K": 1757,
+            "C": 1484,
+            "F": 2703
+        }
+    },
+    "Sc": {
+        "name": "Scandium",
+        "atomic_number": 21,
+        "group": {
+            "number": 3,
+            "name": "transition metals"
+        },
+        "period": 4,
+        "block": "d",
+        "phase": "solid",
+        "melting_point": {
+            "K": 1814,
+            "C": 1541,
+            "F": 2806
+        },
+        "boiling_point": {
+            "K": 3103,
+            "C": 2830,
+            "F": 5126
+        }
+    },
+    "Ti": {
+        "name": "Titanium",
+        "atomic_number": 22,
+        "group": {
+            "number": 4,
+            "name": "transition metals"
+        },
+        "period": 4,
+        "block": "d",
+        "phase": "solid",
+        "melting_point": {
+            "K": 1941,
+            "C": 1668,
+            "F": 3034
+        },
+        "boiling_point": {
+            "K": 3560,
+            "C": 3287,
+            "F": 5949
+        }
+    },
+    "V": {
+        "name": "Vanadium",
+        "atomic_number": 23,
+        "group": {
+            "number": 5,
+            "name": "transition metals"
+        },
+        "period": 4,
+        "block": "d",
+        "phase": "solid",
+        "melting_point": {
+            "K": 2183,
+            "C": 1910,
+            "F": 3470
+        },
+        "boiling_point": {
+            "K": 3680,
+            "C": 3407,
+            "F": 6165
+        }
+    },
+    "Cr": {
+        "name": "Chromium",
+        "atomic_number": 24,
+        "group": {
+            "number": 6,
+            "name": "transition metals"
+        },
+        "period": 4,
+        "block": "d",
+        "phase": "solid",
+        "melting_point": {
+            "K": 2180,
+            "C": 1907,
+            "F": 3465
+        },
+        "boiling_point": {
+            "K": 2944,
+            "C": 2671,
+            "F": 4840
+        }
+    },
+    "Mn": {
+        "name": "Manganese",
+        "atomic_number": 25,
+        "group": {
+            "number": 7,
+            "name": "transition metals"
+        },
+        "period": 4,
+        "block": "d",
+        "phase": "solid",
+        "melting_point": {
+            "K": 1519,
+            "C": 1246,
+            "F": 2275
+        },
+        "boiling_point": {
+            "K": 2334,
+            "C": 2061,
+            "F": 3742
+        }
+    },
+    "Fe": {
+        "name": "Iron",
+        "atomic_number": 26,
+        "group": {
+            "number": 8,
+            "name": "transition metals"
+        },
+        "period": 4,
+        "block": "d",
+        "phase": "solid",
+        "melting_point": {
+            "K": 1811,
+            "C": 1538,
+            "F": 2800
+        },
+        "boiling_point": {
+            "K": 3134,
+            "C": 2861,
+            "F": 5182
+        }
+    },
+    "Co": {
+        "name": "Cobalt",
+        "atomic_number": 27,
+        "group": {
+            "number": 9,
+            "name": "transition metals"
+        },
+        "period": 4,
+        "block": "d",
+        "phase": "solid",
+        "melting_point": {
+            "K": 1768,
+            "C": 1495,
+            "F": 2733
+        },
+        "boiling_point": {
+            "K": 3200,
+            "C": 2927,
+            "F": 5292
+        }
+    },
+    "Ni": {
+        "name": "Nickel",
+        "atomic_number": 28,
+        "group": {
+            "number": 10,
+            "name": "transition metals"
+        },
+        "period": 4,
+        "block": "d",
+        "phase": "solid",
+        "melting_point": {
+            "K": 1728,
+            "C": 1455,
+            "F": 2651
+        },
+        "boiling_point": {
+            "K": 3186,
+            "C": 2913,
+            "F": 5275
+        }
+    },
+    "Cu": {
+        "name": "Copper",
+        "atomic_number": 29,
+        "group": {
+            "number": 11,
+            "name": "transition metals"
+        },
+        "period": 4,
+        "block": "d",
+        "phase": "solid",
+        "melting_point": {
+            "K": 1357.77,
+            "C": 1084.62,
+            "F": 1984.32
+        },
+        "boiling_point": {
+            "K": 2835,
+            "C": 2562,
+            "F": 4643
+        }
+    },
+    "Zn": {
+        "name": "Zinc",
+        "atomic_number": 30,
+        "group": {
+            "number": 12,
+            "name": "transition metals"
+        },
+        "period": 4,
+        "block": "d",
+        "phase": "solid",
+        "melting_point": {
+            "K": 692.68,
+            "C": 419.53,
+            "F": 787.15
+        },
+        "boiling_point": {
+            "K": 1180,
+            "C": 907,
+            "F": 1665
+        }
+    },
+    "Ga": {
+        "name": "Gallium",
+        "atomic_number": 31,
+        "group": {
+            "number": 13,
+            "name": "boron group"
+        },
+        "period": 4,
+        "block": "p",
+        "phase": "solid",
+        "melting_point": {
+            "K": 302.9146,
+            "C": 29.7646,
+            "F": 85.5762
+        },
+        "boiling_point": {
+            "K": 2477,
+            "C": 2204,
+            "F": 3999
+        }
+    },
+    "Ge": {
+        "name": "Germanium",
+        "atomic_number": 32,
+        "group": {
+            "number": 14,
+            "name": "carbon group"
+        },
+        "period": 4,
+        "block": "p",
+        "phase": "solid",
+        "melting_point": {
+            "K": 1211.4,
+            "C": 938.25,
+            "F": 1720.85
+        },
+        "boiling_point": {
+            "K": 3106,
+            "C": 2833,
+            "F": 5131
+        }
+    },
+    "As": {
+        "name": "Arsenic",
+        "atomic_number": 33,
+        "group": {
+            "number": 15,
+            "name": "pnictogens"
+        },
+        "period": 4,
+        "block": "p",
+        "phase": "solid",
+        "melting_point": {
+            "K": 1090,
+            "C": 817,
+            "F": 1503
+        },
+        "boiling_point": {
+            "K": 887,
+            "C": 614,
+            "F": 1137
+        }
+    },
+    "Se": {
+        "name": "Selenium",
+        "atomic_number": 34,
+        "group": {
+            "number": 16,
+            "name": "chalcogens"
+        },
+        "period": 4,
+        "block": "p",
+        "phase": "solid",
+        "melting_point": {
+            "K": 494,
+            "C": 221,
+            "F": 430
+        },
+        "boiling_point": {
+            "K": 958,
+            "C": 685,
+            "F": 1265
+        }
+    },
+    "Br": {
+        "name": "Bromine",
+        "atomic_number": 35,
+        "group": {
+            "number": 17,
+            "name": "halogens"
+        },
+        "period": 4,
+        "block": "p",
+        "phase": "liquid",
+        "melting_point": {
+            "K": 265.8,
+            "C": -7.2,
+            "F": 19.04
+        },
+        "boiling_point": {
+            "K": 332,
+            "C": 59,
+            "F": 138
+        }
+    },
+    "Kr": {
+        "name": "Krypton",
+        "atomic_number": 36,
+        "group": {
+            "number": 18,
+            "name": "noble gases"
+        },
+        "period": 4,
+        "block": "p",
+        "phase": "gas",
+        "melting_point": {
+            "K": 115.79,
+            "C": -157.36,
+            "F": -251.25
+        },
+        "boiling_point": {
+            "K": 119.93,
+            "C": -153.22,
+            "F": -243.8
+        }
+    },
+    "Rb": {
+        "name": "Rubidium",
+        "atomic_number": 37,
+        "group": {
+            "number": 1,
+            "name": "alkali metals"
+        },
+        "period": 5,
+        "block": "s",
+        "phase": "solid",
+        "melting_point": {
+            "K": 312.46,
+            "C": 39.31,
+            "F": 102.76
+        },
+        "boiling_point": {
+            "K": 961,
+            "C": 688,
+            "F": 1270
+        }
+    },
+    "Sr": {
+        "name": "Strontium",
+        "atomic_number": 38,
+        "group": {
+            "number": 2,
+            "name": "alkaline earth metals"
+        },
+        "period": 5,
+        "block": "s",
+        "phase": "solid",
+        "melting_point": {
+            "K": 1050,
+            "C": 777,
+            "F": 1431
+        },
+        "boiling_point": {
+            "K": 1655,
+            "C": 1382,
+            "F": 2520
+        }
+    },
+    "Y": {
+        "name": "Yttrium",
+        "atomic_number": 39,
+        "group": {
+            "number": 3,
+            "name": "transition metals"
+        },
+        "period": 5,
+        "block": "d",
+        "phase": "solid",
+        "melting_point": {
+            "K": 1799,
+            "C": 1526,
+            "F": 2779
+        },
+        "boiling_point": {
+            "K": 3609,
+            "C": 3336,
+            "F": 6037
+        }
+    },
+    "Zr": {
+        "name": "Zirconium",
+        "atomic_number": 40,
+        "group": {
+            "number": 4,
+            "name": "transition metals"
+        },
+        "period": 5,
+        "block": "d",
+        "phase": "solid",
+        "melting_point": {
+            "K": 2128,
+            "C": 1855,
+            "F": 3371
+        },
+        "boiling_point": {
+            "K": 4682,
+            "C": 4409,
+            "F": 7968
+        }
+    },
+    "Nb": {
+        "name": "Niobium",
+        "atomic_number": 41,
+        "group": {
+            "number": 5,
+            "name": "transition metals"
+        },
+        "period": 5,
+        "block": "d",
+        "phase": "solid",
+        "melting_point": {
+            "K": 2750,
+            "C": 2477,
+            "F": 4491
+        },
+        "boiling_point": {
+            "K": 5017,
+            "C": 4744,
+            "F": 8571
+        }
+    },
+    "Mo": {
+        "name": "Molybdenum",
+        "atomic_number": 42,
+        "group": {
+            "number": 6,
+            "name": "transition metals"
+        },
+        "period": 5,
+        "block": "d",
+        "phase": "solid",
+        "melting_point": {
+            "K": 2896,
+            "C": 2623,
+            "F": 4753
+        },
+        "boiling_point": {
+            "K": 4912,
+            "C": 4639,
+            "F": 8382
+        }
+    },
+    "Tc": {
+        "name": "Technetium",
+        "atomic_number": 43,
+        "group": {
+            "number": 7,
+            "name": "transition metals"
+        },
+        "period": 5,
+        "block": "d",
+        "phase": "solid",
+        "melting_point": {
+            "K": 2430,
+            "C": 2157,
+            "F": 3915
+        },
+        "boiling_point": {
+            "K": 4538,
+            "C": 4265,
+            "F": 7709
+        }
+    },
+    "Ru": {
+        "name": "Ruthenium",
+        "atomic_number": 44,
+        "group": {
+            "number": 8,
+            "name": "transition metals"
+        },
+        "period": 5,
+        "block": "d",
+        "phase": "solid",
+        "melting_point": {
+            "K": 2607,
+            "C": 2334,
+            "F": 4233
+        },
+        "boiling_point": {
+            "K": 4423,
+            "C": 4150,
+            "F": 7502
+        }
+    },
+    "Rh": {
+        "name": "Rhodium",
+        "atomic_number": 45,
+        "group": {
+            "number": 9,
+            "name": "transition metals"
+        },
+        "period": 5,
+        "block": "d",
+        "phase": "solid",
+        "melting_point": {
+            "K": 2237,
+            "C": 1964,
+            "F": 3567
+        },
+        "boiling_point": {
+            "K": 3968,
+            "C": 3695,
+            "F": 6683
+        }
+    },
+    "Pd": {
+        "name": "Palladium",
+        "atomic_number": 46,
+        "group": {
+            "number": 10,
+            "name": "transition metals"
+        },
+        "period": 5,
+        "block": "d",
+        "phase": "solid",
+        "melting_point": {
+            "K": 1828.05,
+            "C": 1554.9,
+            "F": 2830.8
+        },
+        "boiling_point": {
+            "K": 3236,
+            "C": 2963,
+            "F": 5365
+        }
+    },
+    "Ag": {
+        "name": "Silver",
+        "atomic_number": 47,
+        "group": {
+            "number": 11,
+            "name": "transition metals"
+        },
+        "period": 5,
+        "block": "d",
+        "phase": "solid",
+        "melting_point": {
+            "K": 1234.93,
+            "C": 961.78,
+            "F": 1763.2
+        },
+        "boiling_point": {
+            "K": 2435,
+            "C": 2162,
+            "F": 3924
+        }
+    },
+    "Cd": {
+        "name": "Cadmium",
+        "atomic_number": 48,
+        "group": {
+            "number": 12,
+            "name": "transition metals"
+        },
+        "period": 5,
+        "block": "d",
+        "phase": "solid",
+        "melting_point": {
+            "K": 594.22,
+            "C": 321.07,
+            "F": 609.93
+        },
+        "boiling_point": {
+            "K": 1040,
+            "C": 767,
+            "F": 1413
+        }
+    },
+    "In": {
+        "name": "Indium",
+        "atomic_number": 49,
+        "group": {
+            "number": 13,
+            "name": "boron group"
+        },
+        "period": 5,
+        "block": "p",
+        "phase": "solid",
+        "melting_point": {
+            "K": 429.7485,
+            "C": 156.5985,
+            "F": 313.6766
+        },
+        "boiling_point": {
+            "K": 2345,
+            "C": 2072,
+            "F": 3762
+        }
+    },
+    "Sn": {
+        "name": "Tin",
+        "atomic_number": 50,
+        "group": {
+            "number": 14,
+            "name": "carbon group"
+        },
+        "period": 5,
+        "block": "p",
+        "phase": "solid",
+        "melting_point": {
+            "K": 505.08,
+            "C": 231.93,
+            "F": 449.47
+        },
+        "boiling_point": {
+            "K": 2875,
+            "C": 2602,
+            "F": 4716
+        }
+    },
+    "Sb": {
+        "name": "Antimony",
+        "atomic_number": 51,
+        "group": {
+            "number": 15,
+            "name": "pnictogens"
+        },
+        "period": 5,
+        "block": "p",
+        "phase": "solid",
+        "melting_point": {
+            "K": 903.78,
+            "C": 630.63,
+            "F": 1167.13
+        },
+        "boiling_point": {
+            "K": 1860,
+            "C": 1587,
+            "F": 2891
+        }
+    },
+    "Te": {
+        "name": "Tellurium",
+        "atomic_number": 52,
+        "group": {
+            "number": 16,
+            "name": "chalcogens"
+        },
+        "period": 5,
+        "block": "p",
+        "phase": "solid",
+        "melting_point": {
+            "K": 722.66,
+            "C": 449.51,
+            "F": 841.28
+        },
+        "boiling_point": {
+            "K": 1261,
+            "C": 988,
+            "F": 1810
+        }
+    },
+    "I": {
+        "name": "Iodine",
+        "atomic_number": 53,
+        "group": {
+            "number": 17,
+            "name": "halogens"
+        },
+        "period": 5,
+        "block": "p",
+        "phase": "solid",
+        "melting_point": {
+            "K": 386.85,
+            "C": 113.7,
+            "F": 236.66
+        },
+        "boiling_point": {
+            "K": 457.4,
+            "C": 184.15,
+            "F": 363.47
+        }
+    },
+    "Xe": {
+        "name": "Xenon",
+        "atomic_number": 54,
+        "group": {
+            "number": 18,
+            "name": "noble gases"
+        },
+        "period": 5,
+        "block": "p",
+        "phase": "gas",
+        "melting_point": {
+            "K": 161.4,
+            "C": -111.75,
+            "F": -169.15
+        },
+        "boiling_point": {
+            "K": 165.03,
+            "C": -108.12,
+            "F": -162.42
+        }
+    },
+    "Cs": {
+        "name": "Cesium",
+        "atomic_number": 55,
+        "group": {
+            "number": 1,
+            "name": "alkali metals"
+        },
+        "period": 6,
+        "block": "s",
+        "phase": "solid",
+        "melting_point": {
+            "K": 301.7,
+            "C": 28.55,
+            "F": 83.39
+        },
+        "boiling_point": {
+            "K": 944,
+            "C": 671,
+            "F": 1240
+        }
+    },
+    "Ba": {
+        "name": "Barium",
+        "atomic_number": 56,
+        "group": {
+            "number": 2,
+            "name": "alkaline earth metals"
+        },
+        "period": 6,
+        "block": "s",
+        "phase": "solid",
+        "melting_point": {
+            "K": 1000,
+            "C": 727,
+            "F": 1341
+        },
+        "boiling_point": {
+            "K": 2170,
+            "C": 1897,
+            "F": 3447
+        }
+    },
+    "La": {
+        "name": "Lanthanum",
+        "atomic_number": 57,
+        "group": {
+            "number": 3,
+            "name": "lanthanides"
+        },
+        "period": 6,
+        "block": "f",
+        "phase": "solid",
+        "melting_point": {
+            "K": 1193,
+            "C": 920,
+            "F": 1688
+        },
+        "boiling_point": {
+            "K": 3737,
+            "C": 3464,
+            "F": 6267
+        }
+    },
+    "Ce": {
+        "name": "Cerium",
+        "atomic_number": 58,
+        "group": {
+            "number": 3,
+            "name": "lanthanides"
+        },
+        "period": 6,
+        "block": "f",
+        "phase": "solid",
+        "melting_point": {
+            "K": 1071,
+            "C": 798,
+            "F": 1468
+        },
+        "boiling_point": {
+            "K": 3697,
+            "C": 3424,
+            "F": 6195
+        }
+    },
+    "Pr": {
+        "name": "Praseodymium",
+        "atomic_number": 59,
+        "group": {
+            "number": 3,
+            "name": "lanthanides"
+        },
+        "period": 6,
+        "block": "f",
+        "phase": "solid",
+        "melting_point": {
+            "K": 1208,
+            "C": 935,
+            "F": 1715
+        },
+        "boiling_point": {
+            "K": 3793,
+            "C": 3520,
+            "F": 6368
+        }
+    },
+    "Nd": {
+        "name": "Neodymium",
+        "atomic_number": 60,
+        "group": {
+            "number": 3,
+            "name": "lanthanides"
+        },
+        "period": 6,
+        "block": "f",
+        "phase": "solid",
+        "melting_point": {
+            "K": 1297,
+            "C": 1024,
+            "F": 1875
+        },
+        "boiling_point": {
+            "K": 3347,
+            "C": 3074,
+            "F": 5565
+        }
+    },
+    "Pm": {
+        "name": "Promethium",
+        "atomic_number": 61,
+        "group": {
+            "number": 3,
+            "name": "lanthanides"
+        },
+        "period": 6,
+        "block": "f",
+        "phase": "solid",
+        "melting_point": {
+            "K": 1315,
+            "C": 1042,
+            "F": 1908
+        },
+        "boiling_point": {
+            "K": 3273,
+            "C": 3000,
+            "F": 5432
+        }
+    },
+    "Sm": {
+        "name": "Samarium",
+        "atomic_number": 62,
+        "group": {
+            "number": 3,
+            "name": "lanthanides"
+        },
+        "period": 6,
+        "block": "f",
+        "phase": "solid",
+        "melting_point": {
+            "K": 1345,
+            "C": 1072,
+            "F": 1962
+        },
+        "boiling_point": {
+            "K": 2067,
+            "C": 1794,
+            "F": 3261
+        }
+    },
+    "Eu": {
+        "name": "Europium",
+        "atomic_number": 63,
+        "group": {
+            "number": 3,
+            "name": "lanthanides"
+        },
+        "period": 6,
+        "block": "f",
+        "phase": "solid",
+        "melting_point": {
+            "K": 1095,
+            "C": 822,
+            "F": 1512
+        },
+        "boiling_point": {
+            "K": 1800,
+            "C": 1527,
+            "F": 2781
+        }
+    },
+    "Gd": {
+        "name": "Gadolinium",
+        "atomic_number": 64,
+        "group": {
+            "number": 3,
+            "name": "lanthanides"
+        },
+        "period": 6,
+        "block": "f",
+        "phase": "solid",
+        "melting_point": {
+            "K": 1585,
+            "C": 1312,
+            "F": 2394
+        },
+        "boiling_point": {
+            "K": 3546,
+            "C": 3273,
+            "F": 5923
+        }
+    },
+    "Tb": {
+        "name": "Terbium",
+        "atomic_number": 65,
+        "group": {
+            "number": 3,
+            "name": "lanthanides"
+        },
+        "period": 6,
+        "block": "f",
+        "phase": "solid",
+        "melting_point": {
+            "K": 1629,
+            "C": 1356,
+            "F": 2473
+        },
+        "boiling_point": {
+            "K": 3503,
+            "C": 3230,
+            "F": 5846
+        }
+    },
+    "Dy": {
+        "name": "Dysprosium",
+        "atomic_number": 66,
+        "group": {
+            "number": 3,
+            "name": "lanthanides"
+        },
+        "period": 6,
+        "block": "f",
+        "phase": "solid",
+        "melting_point": {
+            "K": 1680,
+            "C": 1407,
+            "F": 2565
+        },
+        "boiling_point": {
+            "K": 2840,
+            "C": 2567,
+            "F": 4653
+        }
+    },
+    "Ho": {
+        "name": "Holmium",
+        "atomic_number": 67,
+        "group": {
+            "number": 3,
+            "name": "lanthanides"
+        },
+        "period": 6,
+        "block": "f",
+        "phase": "solid",
+        "melting_point": {
+            "K": 1734,
+            "C": 1461,
+            "F": 2662
+        },
+        "boiling_point": {
+            "K": 2993,
+            "C": 2720,
+            "F": 4928
+        }
+    },
+    "Er": {
+        "name": "Erbium",
+        "atomic_number": 68,
+        "group": {
+            "number": 3,
+            "name": "lanthanides"
+        },
+        "period": 6,
+        "block": "f",
+        "phase": "solid",
+        "melting_point": {
+            "K": 1802,
+            "C": 1529,
+            "F": 2784
+        },
+        "boiling_point": {
+            "K": 3503,
+            "C": 3228,
+            "F": 5842
+        }
+    },
+    "Tm": {
+        "name": "Thulium",
+        "atomic_number": 69,
+        "group": {
+            "number": 3,
+            "name": "lanthanides"
+        },
+        "period": 6,
+        "block": "f",
+        "phase": "solid",
+        "melting_point": {
+            "K": 1818,
+            "C": 1545,
+            "F": 2813
+        },
+        "boiling_point": {
+            "K": 2223,
+            "C": 1950,
+            "F": 3542
+        }
+    },
+    "Yb": {
+        "name": "Ytterbium",
+        "atomic_number": 70,
+        "group": {
+            "number": 3,
+            "name": "lanthanides"
+        },
+        "period": 6,
+        "block": "f",
+        "phase": "solid",
+        "melting_point": {
+            "K": 1097,
+            "C": 824,
+            "F": 1515
+        },
+        "boiling_point": {
+            "K": 1469,
+            "C": 1196,
+            "F": 2184
+        }
+    },
+    "Lu": {
+        "name": "Lutetium",
+        "atomic_number": 71,
+        "group": {
+            "number": 3,
+            "name": "lanthanides"
+        },
+        "period": 6,
+        "block": "d",
+        "phase": "solid",
+        "melting_point": {
+            "K": 1925,
+            "C": 1652,
+            "F": 3006
+        },
+        "boiling_point": {
+            "K": 3675,
+            "C": 3402,
+            "F": 6156
+        }
+    },
+    "Hf": {
+        "name": "Hafnium",
+        "atomic_number": 72,
+        "group": {
+            "number": 4,
+            "name": "transition metals"
+        },
+        "period": 6,
+        "block": "d",
+        "phase": "solid",
+        "melting_point": {
+            "K": 2506,
+            "C": 2233,
+            "F": 4041
+        },
+        "boiling_point": {
+            "K": 4876,
+            "C": 4603,
+            "F": 8317
+        }
+    },
+    "Ta": {
+        "name": "Tantalum",
+        "atomic_number": 73,
+        "group": {
+            "number": 5,
+            "name": "transition metals"
+        },
+        "period": 6,
+        "block": "d",
+        "phase": "solid",
+        "melting_point": {
+            "K": 3290,
+            "C": 3017,
+            "F": 5463
+        },
+        "boiling_point": {
+            "K": 5731,
+            "C": 4458,
+            "F": 8056
+        }
+    },
+    "W": {
+        "name": "Tungsten",
+        "atomic_number": 74,
+        "group": {
+            "number": 6,
+            "name": "transition metals"
+        },
+        "period": 6,
+        "block": "d",
+        "phase": "solid",
+        "melting_point": {
+            "K": 3695,
+            "C": 3422,
+            "F": 6192
+        },
+        "boiling_point": {
+            "K": 5828,
+            "C": 5555,
+            "F": 10031
+        }
+    },
+    "Re": {
+        "name": "Rhenium",
+        "atomic_number": 75,
+        "group": {
+            "number": 7,
+            "name": "transition metals"
+        },
+        "period": 6,
+        "block": "d",
+        "phase": "solid",
+        "melting_point": {
+            "K": 3459,
+            "C": 3186,
+            "F": 5767
+        },
+        "boiling_point": {
+            "K": 5869,
+            "C": 5596,
+            "F": 10105
+        }
+    },
+    "Os": {
+        "name": "Osmium",
+        "atomic_number": 76,
+        "group": {
+            "number": 8,
+            "name": "transition metals"
+        },
+        "period": 6,
+        "block": "d",
+        "phase": "solid",
+        "melting_point": {
+            "K": 3306,
+            "C": 3033,
+            "F": 5491
+        },
+        "boiling_point": {
+            "K": 5285,
+            "C": 5012,
+            "F": 9054
+        }
+    },
+    "Ir": {
+        "name": "Iridium",
+        "atomic_number": 77,
+        "group": {
+            "number": 9,
+            "name": "transition metals"
+        },
+        "period": 6,
+        "block": "d",
+        "phase": "solid",
+        "melting_point": {
+            "K": 2719,
+            "C": 2446,
+            "F": 4435
+        },
+        "boiling_point": {
+            "K": 4701,
+            "C": 4428,
+            "F": 8002
+        }
+    },
+    "Pt": {
+        "name": "Platinum",
+        "atomic_number": 78,
+        "group": {
+            "number": 10,
+            "name": "transition metals"
+        },
+        "period": 6,
+        "block": "d",
+        "phase": "solid",
+        "melting_point": {
+            "K": 2041.4,
+            "C": 1768.3,
+            "F": 3214.9
+        },
+        "boiling_point": {
+            "K": 4098,
+            "C": 3825,
+            "F": 6917
+        }
+    },
+    "Au": {
+        "name": "Gold",
+        "atomic_number": 79,
+        "group": {
+            "number": 11,
+            "name": "transition metals"
+        },
+        "period": 6,
+        "block": "d",
+        "phase": "solid",
+        "melting_point": {
+            "K": 1337.33,
+            "C": 1064.18,
+            "F": 1947.52
+        },
+        "boiling_point": {
+            "K": 3129,
+            "C": 2856,
+            "F": 5173
+        }
+    },
+    "Hg": {
+        "name": "Mercury",
+        "atomic_number": 80,
+        "group": {
+            "number": 12,
+            "name": "transition metals"
+        },
+        "period": 6,
+        "block": "d",
+        "phase": "liquid",
+        "melting_point": {
+            "K": 234.32,
+            "C": -38.83,
+            "F": -37.89
+        },
+        "boiling_point": {
+            "K": 630,
+            "C": 357,
+            "F": 674
+        }
+    },
+    "Tl": {
+        "name": "Thallium",
+        "atomic_number": 81,
+        "group": {
+            "number": 13,
+            "name": "post-transition metals"
+        },
+        "period": 6,
+        "block": "p",
+        "phase": "solid",
+        "melting_point": {
+            "K": 577,
+            "C": 304,
+            "F": 579
+        },
+        "boiling_point": {
+            "K": 1746,
+            "C": 1473,
+            "F": 2683
+        }
+    },
+    "Pb": {
+        "name": "Lead",
+        "atomic_number": 82,
+        "group": {
+            "number": 14,
+            "name": "post-transition metals"
+        },
+        "period": 6,
+        "block": "p",
+        "phase": "solid",
+        "melting_point": {
+            "K": 600.61,
+            "C": 327.46,
+            "F": 621.65
+        },
+        "boiling_point": {
+            "K": 2022,
+            "C": 1749,
+            "F": 3180
+        }
+    },
+    "Bi": {
+        "name": "Bismuth",
+        "atomic_number": 83,
+        "group": {
+            "number": 15,
+            "name": "post-transition metals"
+        },
+        "period": 6,
+        "block": "p",
+        "phase": "solid",
+        "melting_point": {
+            "K": 544.7,
+            "C": 271.5,
+            "F": 520.5
+        },
+        "boiling_point": {
+            "K": 1837,
+            "C": 1564,
+            "F": 2847
+        }
+    },
+    "Po": {
+        "name": "Polonium",
+        "atomic_number": 84,
+        "group": {
+            "number": 16,
+            "name": "post-transition metals"
+        },
+        "period": 6,
+        "block": "p",
+        "phase": "solid",
+        "melting_point": {
+            "K": 527,
+            "C": 254,
+            "F": 489
+        },
+        "boiling_point": {
+            "K": 1235,
+            "C": 962,
+            "F": 1764
+        }
+    },
+    "At": {
+        "name": "Astatine",
+        "atomic_number": 85,
+        "group": {
+            "number": 17,
+            "name": "halogens"
+        },
+        "period": 6,
+        "block": "p",
+        "phase": "solid",
+        "melting_point": {
+            "K": 575,
+            "C": 302,
+            "F": 575
+        },
+        "boiling_point": {
+            "K": 610,
+            "C": 337,
+            "F": 635
+        }
+    },
+    "Rn": {
+        "name": "Radon",
+        "atomic_number": 86,
+        "group": {
+            "number": 18,
+            "name": "noble gases"
+        },
+        "period": 6,
+        "block": "p",
+        "phase": "gas",
+        "melting_point": {
+            "K": 202,
+            "C": -71,
+            "F": -96
+        },
+        "boiling_point": {
+            "K": 211.3,
+            "C": -61.8,
+            "F": -79.2
+        }
+    },
+    "Fr": {
+        "name": "Francium",
+        "atomic_number": 87,
+        "group": {
+            "number": 1,
+            "name": "alkali metals"
+        },
+        "period": 7,
+        "block": "s",
+        "phase": "solid",
+        "melting_point": {
+            "K": 300,
+            "C": 27,
+            "F": 80
+        },
+        "boiling_point": {
+            "K": 950,
+            "C": 677,
+            "F": 1250
+        }
+    },
+    "Ra": {
+        "name": "Radium",
+        "atomic_number": 88,
+        "group": {
+            "number": 2,
+            "name": "alkaline earth metals"
+        },
+        "period": 7,
+        "block": "s",
+        "phase": "solid",
+        "melting_point": {
+            "K": 973,
+            "C": 700,
+            "F": 1292
+        },
+        "boiling_point": {
+            "K": 2010,
+            "C": 1737,
+            "F": 3159
+        }
+    },
+    "Ac": {
+        "name": "Actinium",
+        "atomic_number": 89,
+        "group": {
+            "number": 3,
+            "name": "actinides"
+        },
+        "period": 7,
+        "block": "d",
+        "phase": "solid",
+        "melting_point": {
+            "K": 1323,
+            "C": 1050,
+            "F": 1922
+        },
+        "boiling_point": {
+            "K": 3471,
+            "C": 3198,
+            "F": 5788
+        }
+    },
+    "Th": {
+        "name": "Thorium",
+        "atomic_number": 90,
+        "group": {
+            "number": 3,
+            "name": "actinides"
+        },
+        "period": 7,
+        "block": "f",
+        "phase": "solid",
+        "melting_point": {
+            "K": 2023,
+            "C": 1750,
+            "F": 3182
+        },
+        "boiling_point": {
+            "K": 5061,
+            "C": 4788,
+            "F": 8650
+        }
+    },
+    "Pa": {
+        "name": "Protactinium",
+        "atomic_number": 91,
+        "group": {
+            "number": 3,
+            "name": "actinides"
+        },
+        "period": 7,
+        "block": "f",
+        "phase": "solid",
+        "melting_point": {
+            "K": 1841,
+            "C": 1568,
+            "F": 2854
+        },
+        "boiling_point": {
+            "K": 4300,
+            "C": 4027,
+            "F": 7280
+        }
+    },
+    "U": {
+        "name": "Uranium",
+        "atomic_number": 92,
+        "group": {
+            "number": 3,
+            "name": "actinides"
+        },
+        "period": 7,
+        "block": "f",
+        "phase": "solid",
+        "melting_point": {
+            "K": 1405.3,
+            "C": 1132.2,
+            "F": 2070
+        },
+        "boiling_point": {
+            "K": 4131,
+            "C": 3858,
+            "F": 6976
+        }
+    },
+    "Np": {
+        "name": "Neptunium",
+        "atomic_number": 93,
+        "group": {
+            "number": 3,
+            "name": "actinides"
+        },
+        "period": 7,
+        "block": "f",
+        "phase": "solid",
+        "melting_point": {
+            "K": 917,
+            "C": 644,
+            "F": 1191
+        },
+        "boiling_point": {
+            "K": 4273,
+            "C": 4000,
+            "F": 7232
+        }
+    },
+    "Pu": {
+        "name": "Plutonium",
+        "atomic_number": 94,
+        "group": {
+            "number": 3,
+            "name": "actinides"
+        },
+        "period": 7,
+        "block": "f",
+        "phase": "solid",
+        "melting_point": {
+            "K": 912.5,
+            "C": 639.4,
+            "F": 1182.9
+        },
+        "boiling_point": {
+            "K": 3505,
+            "C": 3232,
+            "F": 5849
+        }
+    },
+    "Am": {
+        "name": "Americium",
+        "atomic_number": 95,
+        "group": {
+            "number": 3,
+            "name": "actinides"
+        },
+        "period": 7,
+        "block": "f",
+        "phase": "solid",
+        "melting_point": {
+            "K": 1449,
+            "C": 1176,
+            "F": 2149
+        },
+        "boiling_point": {
+            "K": 2880,
+            "C": 2607,
+            "F": 4725
+        }
+    },
+    "Cm": {
+        "name": "Curium",
+        "atomic_number": 96,
+        "group": {
+            "number": 3,
+            "name": "actinides"
+        },
+        "period": 7,
+        "block": "f",
+        "phase": "solid",
+        "melting_point": {
+            "K": 1613,
+            "C": 1340,
+            "F": 2444
+        },
+        "boiling_point": {
+            "K": 3383,
+            "C": 3110,
+            "F": 5630
+        }
+    },
+    "Bk": {
+        "name": "Berkelium",
+        "atomic_number": 97,
+        "group": {
+            "number": 3,
+            "name": "actinides"
+        },
+        "period": 7,
+        "block": "f",
+        "phase": "solid",
+        "melting_point": {
+            "K": 1259,
+            "C": 986,
+            "F": 1807
+        },
+        "boiling_point": {
+            "K": 983,
+            "C": 710,
+            "F": 1310
+        }
+    },
+    "Cf": {
+        "name": "Californium",
+        "atomic_number": 98,
+        "group": {
+            "number": 3,
+            "name": "actinides"
+        },
+        "period": 7,
+        "block": "f",
+        "phase": "solid",
+        "melting_point": {
+            "K": 1173,
+            "C": 900,
+            "F": 1652
+        },
+        "boiling_point": {
+            "K": 1743,
+            "C": 1470,
+            "F": 2678
+        }
+    },
+    "Es": {
+        "name": "Einsteinium",
+        "atomic_number": 99,
+        "group": {
+            "number": 3,
+            "name": "actinides"
+        },
+        "period": 7,
+        "block": "f",
+        "phase": "solid",
+        "melting_point": {
+            "K": 1133,
+            "C": 860,
+            "F": 1580
+        },
+        "boiling_point": {
+            "K": 1269,
+            "C": 996,
+            "F": 1825
+        }
+    },
+    "Fm": {
+        "name": "Fermium",
+        "atomic_number": 100,
+        "group": {
+            "number": 3,
+            "name": "actinides"
+        },
+        "period": 7,
+        "block": "f",
+        "phase": "unknown",
+        "melting_point": null,
+        "boiling_point": null
+    },
+    "Md": {
+        "name": "Mendelevium",
+        "atomic_number": 101,
+        "group": {
+            "number": 3,
+            "name": "actinides"
+        },
+        "period": 7,
+        "block": "f",
+        "phase": "unknown",
+        "melting_point": null,
+        "boiling_point": null
+    },
+    "No": {
+        "name": "Nobelium",
+        "atomic_number": 102,
+        "group": {
+            "number": 3,
+            "name": "actinides"
+        },
+        "period": 7,
+        "block": "f",
+        "phase": "unknown",
+        "melting_point": null,
+        "boiling_point": null
+    },
+    "Lr": {
+        "name": "Lawrencium",
+        "atomic_number": 103,
+        "group": {
+            "number": 3,
+            "name": "actinides"
+        },
+        "period": 7,
+        "block": "d",
+        "phase": "unknown",
+        "melting_point": null,
+        "boiling_point": null
+    },
+    "Rf": {
+        "name": "Rutherfordium",
+        "atomic_number": 104,
+        "group": {
+            "number": 4,
+            "name": "transition metals"
+        },
+        "period": 7,
+        "block": "d",
+        "phase": "solid",
+        "melting_point": {
+            "K": 2400,
+            "C": 2127,
+            "F": 3861
+        },
+        "boiling_point": {
+            "K": 5800,
+            "C": 5527,
+            "F": 9981
+        }
+    },
+    "Db": {
+        "name": "Dubnium",
+        "atomic_number": 105,
+        "group": {
+            "number": 5,
+            "name": "transition metals"
+        },
+        "period": 7,
+        "block": "d",
+        "phase": "unknown",
+        "melting_point": null,
+        "boiling_point": null
+    },
+    "Sg": {
+        "name": "Seaborgium",
+        "atomic_number": 106,
+        "group": {
+            "number": 6,
+            "name": "transition metals"
+        },
+        "period": 7,
+        "block": "d",
+        "phase": "unknown",
+        "melting_point": null,
+        "boiling_point": null
+    },
+    "Bh": {
+        "name": "Bohrium",
+        "atomic_number": 107,
+        "group": {
+            "number": 7,
+            "name": "transition metals"
+        },
+        "period": 7,
+        "block": "d",
+        "phase": "unknown",
+        "melting_point": null,
+        "boiling_point": null
+    },
+    "Hs": {
+        "name": "Hassium",
+        "atomic_number": 108,
+        "group": {
+            "number": 8,
+            "name": "transition metals"
+        },
+        "period": 7,
+        "block": "d",
+        "phase": "unknown",
+        "melting_point": null,
+        "boiling_point": null
+    },
+    "Mt": {
+        "name": "Meitnerium",
+        "atomic_number": 109,
+        "group": {
+            "number": 9,
+            "name": "transition metals"
+        },
+        "period": 7,
+        "block": "d",
+        "phase": "unknown",
+        "melting_point": null,
+        "boiling_point": null
+    },
+    "Ds": {
+        "name": "Darmstadtium",
+        "atomic_number": 110,
+        "group": {
+            "number": 10,
+            "name": "transition metals"
+        },
+        "period": 7,
+        "block": "d",
+        "phase": "unknown",
+        "melting_point": null,
+        "boiling_point": null
+    },
+    "Rg": {
+        "name": "Roentgenium",
+        "atomic_number": 111,
+        "group": {
+            "number": 11,
+            "name": "transition metals"
+        },
+        "period": 7,
+        "block": "d",
+        "phase": "unknown",
+        "melting_point": null,
+        "boiling_point": null
+    },
+    "Cn": {
+        "name": "Copernicium",
+        "atomic_number": 112,
+        "group": {
+            "number": 12,
+            "name": "transition metals"
+        },
+        "period": 7,
+        "block": "d",
+        "phase": "solid",
+        "melting_point": {
+            "K": 283,
+            "C": 10,
+            "F": 50
+        },
+        "boiling_point": {
+            "K": 357,
+            "C": 84,
+            "F": 183
+        }
+    },
+    "Nh": {
+        "name": "Nihonium",
+        "atomic_number": 113,
+        "group": {
+            "number": 13,
+            "name": "boron group"
+        },
+        "period": 7,
+        "block": "p",
+        "phase": "unknown",
+        "melting_point": null,
+        "boiling_point": null
+    },
+    "Fl": {
+        "name": "Flerovium",
+        "atomic_number": 114,
+        "group": {
+            "number": 14,
+            "name": "carbon group"
+        },
+        "period": 7,
+        "block": "p",
+        "phase": "unknown",
+        "melting_point": null,
+        "boiling_point": null
+    },
+    "Mc": {
+        "name": "Moscovium",
+        "atomic_number": 115,
+        "group": {
+            "number": 15,
+            "name": "pnictogens"
+        },
+        "period": 7,
+        "block": "p",
+        "phase": "unknown",
+        "melting_point": null,
+        "boiling_point": null
+    },
+    "Lv": {
+        "name": "Livermorium",
+        "atomic_number": 116,
+        "group": {
+            "number": 16,
+            "name": "chalcogens"
+        },
+        "period": 7,
+        "block": "p",
+        "phase": "unknown",
+        "melting_point": null,
+        "boiling_point": null
+    },
+    "Ts": {
+        "name": "Tennessine",
+        "atomic_number": 117,
+        "group": {
+            "number": 17,
+            "name": "halogens"
+        },
+        "period": 7,
+        "block": "p",
+        "phase": "unknown",
+        "melting_point": null,
+        "boiling_point": null
+    },
+    "Og": {
+        "name": "Oganesson",
+        "atomic_number": 118,
+        "group": {
+            "number": 18,
+            "name": "noble gases"
+        },
+        "period": 7,
+        "block": "p",
+        "phase": "unknown",
+        "melting_point": null,
+        "boiling_point": null
+    }
+}
